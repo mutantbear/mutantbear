@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mutantbear
 - 👀 I’m interested in computer.
-- 🌱 I’m currently learning Bsc(IT)
+- 🌱 I’m currently doing Bsc(IT)
 - 📫 How to reach me ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Charles Babbage is considered as the "father of the computer"
